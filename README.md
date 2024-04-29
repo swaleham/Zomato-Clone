@@ -1,7 +1,7 @@
 # Zomato-Clone DevSecOps CI/CD
 
 ## Project Architecture
-<img src="https://github.com/swaleham/Zomato-Clone/blob/main/ZomatoClone.svg">
+<img src="https://github.com/swaleham/Zomato-Clone/blob/main/ZomatoClone1.svg">
 
 ### Steps:
 1. Launch an Ubuntu instance(t2.large, increase the RAM to 10).
