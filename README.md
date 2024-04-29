@@ -1,4 +1,6 @@
 # Zomato-Clone DevSecOps CI/CD
+<h3>This is a React Js applciation which is deployed on Docker container using Jenkins CICD tool</h3>
+<h3>Security tools like SonarQube,Trivy and OWASP are used for code quality checks,image scanning and vulnerabilities checks,dependency checks of project respectively.</h3>
 
 ## Zomato-Clone DevSecOps CI/CD Architecture
 <img src="https://github.com/swaleham/Zomato-Clone/blob/main/ZomatoClone1.svg">
